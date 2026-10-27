@@ -1,0 +1,13 @@
+# Outputs and uploads - never commit raw or edited videos
+*.mp4
+*.mov
+*.m4a
+*.png
+!docs/process-flow.svg
+uploads/
+work/
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/

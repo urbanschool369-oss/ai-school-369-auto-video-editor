@@ -1,0 +1,1 @@
+What if a tiny stickman could teach you how an AI agent really thinks? Meet Milo. He gets a job: fetch a report. He has no tool for it, so he invents one. The tool fails. Milo stops, checks what actually exists, and asks again, clearly. That pause is the lesson. A good agent does not guess. It verifies, then acts.
